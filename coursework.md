@@ -10,8 +10,8 @@ Coursework
 
 #### 2021-02-25
 
-- Hierarchy (a natural order?)
-- Network Effects
+- Hierarchy — a natural order?
+- Organizational Culture
 - Exponential Organization
 
 ---
