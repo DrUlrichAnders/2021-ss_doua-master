@@ -26,7 +26,8 @@ Coursework
 
 #### 2021-03-04
 
-- Morningstar, Sipgate, ... incl. Salary Systems
+- Morningstar, Sipgate, Buffer incl. Salary Systems (https://buffer.com/resources/salary-formula-changes-2019/
+  )
 
 ---
 
