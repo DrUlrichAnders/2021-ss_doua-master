@@ -8,6 +8,12 @@ Coursework
 
 ---
 
+WHAT — HOW - WHY?
+
+15-20min / person
+
+---
+
 #### 2021-02-25
 
 - Hierarchy — a natural order?
