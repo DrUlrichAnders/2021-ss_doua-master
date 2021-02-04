@@ -16,24 +16,34 @@ WHAT — HOW - WHY?
 
 #### 2021-02-25
 
-- Hierarchy — a natural order?
-- Organizational Culture
-- Exponential Organization
+- Hierarchy — a natural order?<br/>
+  DN+JP
+
+- Organizational Culture<br/>
+  VA+LV
+
+- Exponential Organization</br>
+  DS+SM
 
 ---
 
 #### 2021-03-04
 
-- Ambidextrous Organization
-- Holacracy
-- Reinventing Organization
+- Ambidextrous Organization<br/>
+  NP+AO
+- Holacracy </br>
+  n.a.
+- Reinventing Organization</br>
+  EO+SN
 
 ---
 
-#### 2021-03-04
+#### 2021-03-11
 
 - Morningstar, Sipgate, Buffer incl. Salary Systems (https://buffer.com/resources/salary-formula-changes-2019/
   )
+  <br/>
+  TB+NK
 
 ---
 
