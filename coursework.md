@@ -14,7 +14,7 @@ WHAT — HOW - WHY?
 
 ---
 
-#### 2021-03-04
+#### 2021-03-11
 
 - Hierarchy — a natural order?<br/>
   DN+JP
@@ -27,7 +27,7 @@ WHAT — HOW - WHY?
 
 ---
 
-#### 2021-03-11
+#### 2021-03-18
 
 - Ambidextrous Organization<br/>
   NP+AO
@@ -38,7 +38,7 @@ WHAT — HOW - WHY?
 
 ---
 
-#### 2021-03-18
+#### 2021-03-25
 
 - Morningstar, Sipgate, Buffer incl. Salary Systems (https://buffer.com/resources/salary-formula-changes-2019/
   )
